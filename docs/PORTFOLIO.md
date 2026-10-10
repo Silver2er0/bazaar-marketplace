@@ -1,7 +1,5 @@
 # Portfolio & LinkedIn kit
 
-Replace `https://bazaar-marketplace-tan.vercel.app` and `https://github.com/Silver2er0/bazaar-marketplace` with the real links after deployment
-(repo: https://github.com/Silver2er0/bazaar-marketplace).
 
 ## Portfolio card
 
