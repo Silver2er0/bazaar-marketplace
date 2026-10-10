@@ -4,8 +4,8 @@ A production-style marketplace where buyers browse and purchase products, seller
 
 | | |
 |---|---|
-| Live demo | _added after deployment_ |
-| API docs (Swagger) | _added after deployment_ |
+| Live demo | https://bazaar-marketplace-tan.vercel.app |
+| API docs (Swagger) | https://bazaar-api-l828.onrender.com/docs |
 
 ![Home](docs/screenshots/home.jpg)
 

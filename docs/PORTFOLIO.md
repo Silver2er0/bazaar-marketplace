@@ -1,6 +1,6 @@
 # Portfolio & LinkedIn kit
 
-Replace `LIVE_URL` and `REPO_URL` with the real links after deployment
+Replace `https://bazaar-marketplace-tan.vercel.app` and `https://github.com/Silver2er0/bazaar-marketplace` with the real links after deployment
 (repo: https://github.com/Silver2er0/bazaar-marketplace).
 
 ## Portfolio card
@@ -10,7 +10,7 @@ Replace `LIVE_URL` and `REPO_URL` with the real links after deployment
 A multi-vendor marketplace with search and filters, cart, Stripe checkout, seller dashboard and admin panel.
 React 19, TypeScript, Tailwind, NestJS, Prisma, PostgreSQL, Stripe, deployed on Vercel + Render + Neon.
 
-Links: Live demo (LIVE_URL) | Source (REPO_URL) | API docs (LIVE_API_URL/docs)
+Links: Live demo (https://bazaar-marketplace-tan.vercel.app) | Source (https://github.com/Silver2er0/bazaar-marketplace) | API docs (https://bazaar-api-l828.onrender.com/docs)
 
 Demo logins: `buyer@bazaar.dev` / `Buyer123!`, `seller@bazaar.dev` / `Seller123!`
 
@@ -38,8 +38,8 @@ What's inside:
 
 The part I enjoyed most: making payments safe. Totals are recomputed on the server, and marking an order paid is idempotent so webhook retries can't double-decrement stock.
 
-Try it (demo logins on the login page): LIVE_URL
-Code: REPO_URL
+Try it (demo logins on the login page): https://bazaar-marketplace-tan.vercel.app
+Code: https://github.com/Silver2er0/bazaar-marketplace
 
 #React #NestJS #TypeScript #PostgreSQL #Stripe #FullStack #WebDevelopment
 
