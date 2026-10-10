@@ -6,6 +6,7 @@ A production-style marketplace where buyers browse and purchase products, seller
 |---|---|
 | Live demo | https://bazaar-marketplace-tan.vercel.app |
 | API docs (Swagger) | https://bazaar-api-l828.onrender.com/docs |
+| Portfolio | https://ahmad-allahham.vercel.app (Bazaar plus Pulse, Flowboard and DocMind) |
 
 ![Home](docs/screenshots/home.jpg)
 

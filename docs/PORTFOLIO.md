@@ -1,5 +1,16 @@
 # Portfolio & LinkedIn kit
 
+Portfolio site: https://ahmad-allahham.vercel.app
+
+All projects (each uses a different technique):
+
+| Project | Technique | Live | Code |
+|---|---|---|---|
+| Bazaar | Stripe payments + role-based access | https://bazaar-marketplace-tan.vercel.app | https://github.com/Silver2er0/bazaar-marketplace |
+| Pulse | Real-time chat over WebSockets (Socket.IO) | https://pulse-chat-app-sigma.vercel.app | https://github.com/Silver2er0/pulse-chat |
+| Flowboard | Next.js SSR, Server Components and Actions | https://flowboard-app-eight.vercel.app | https://github.com/Silver2er0/flowboard |
+| DocMind | RAG with pgvector, Gemini and SSE streaming | https://docmind-app-gamma.vercel.app | https://github.com/Silver2er0/docmind |
+
 
 ## Portfolio card
 
@@ -23,7 +34,19 @@ Built and deployed a full-stack marketplace with role-based access (buyer, selle
 - Built a responsive React + Tailwind UI with TanStack Query, URL-driven filters and pagination, dark mode, and seller/admin dashboards
 - Added unit and end-to-end tests, GitHub Actions CI, and free-tier deployment (Vercel, Render, Neon)
 
-## LinkedIn post
+## LinkedIn post (portfolio announcement)
+
+I just launched my portfolio with four full-stack projects, each built to show a different skill:
+- Bazaar: marketplace with Stripe Checkout and role-based access (React, NestJS)
+- Pulse: real-time chat over WebSockets with presence, typing and read receipts (NestJS, Socket.IO)
+- Flowboard: server-rendered kanban job tracker with drag and drop (Next.js, Prisma)
+- DocMind: chat with your PDFs using retrieval-augmented generation (pgvector, Gemini, SSE)
+
+All live, tested and open source: https://ahmad-allahham.vercel.app
+
+#React #NestJS #NextJS #WebSockets #RAG #PostgreSQL #FullStack
+
+## LinkedIn post (Bazaar)
 
 I just shipped Bazaar, a full-stack online marketplace I built from scratch with React, NestJS and PostgreSQL.
 
